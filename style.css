@@ -1,0 +1,38 @@
+#main{
+    text-align: center;
+    background-color: rgb(234, 231, 231);
+    padding-bottom: 20px;
+}
+#title{
+    font-size: 70px;
+}
+#second-line{
+    font-size: 25px;
+}
+#img-div{
+    background-color: white;
+    margin: 20px;
+    padding: 50px 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+#image{
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin-bottom: 20px;
+}
+.container{
+    margin-left: 200px;
+    margin-right: 200px;
+}
+.container div{
+    padding-left: 30px;
+    padding-right: 30px;
+    display: flex;
+    align-items: center;
+    text-align: left; 
+    gap: 30px;
+}
